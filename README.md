@@ -1,98 +1,133 @@
 <div align="center">
-  
-# 🚀 AI Engineering Bootcamp 🚀
-### Empowering the Next Generation of AI Engineers
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&color=2ea44f" alt="Status">
-  <img src="https://img.shields.io/badge/Duration-4%20Weeks-blue?style=for-the-badge&color=0366d6" alt="Duration">
-  <img src="https://img.shields.io/badge/Role-Volunteer%20Instructor-ff69b4?style=for-the-badge&color=ea4aaa" alt="Role">
-</p>
+# **AI Engineering Bootcamp**
 
-Welcome to the repository for the **AI Engineering Bootcamp**, a comprehensive 4-week program organized in collaboration with **[iCodeGuru](https://www.linkedin.com/company/icode-guru/)** and **[DigiTech Transformation](https://www.linkedin.com/company/digitech-transformation)**. 
+### Six live lab sessions. Four weeks. Real AI systems built in public.
+
+[![Volunteer Instructor](https://img.shields.io/badge/Role-Volunteer%20Instructor-EC4899?style=for-the-badge&logo=heart&logoColor=white)](#volunteering-with-purpose)
+[![Duration](https://img.shields.io/badge/Program-4%20Weeks-2563EB?style=for-the-badge&logo=calendar&logoColor=white)](#the-four-week-build)
+[![Sessions](https://img.shields.io/badge/My%20Sessions-6%20Recordings-F97316?style=for-the-badge&logo=youtube&logoColor=white)](#session-recordings)
+[![Labs](https://img.shields.io/badge/Format-Hands--on%20Labs-14B8A6?style=for-the-badge&logo=python&logoColor=white)](#inside-this-repository)
+
+<a href="#session-recordings"><img src="https://img.shields.io/badge/▶%20Watch%20the%20lectures-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the lectures" /></a>
+<a href="./bootcamp-outline.pdf"><img src="https://img.shields.io/badge/▣%20Read%20the%20outline-PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Read the bootcamp outline" /></a>
+<a href="#certificate"><img src="https://img.shields.io/badge/★%20View%20certificate-Verified-16A34A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View certificate" /></a>
+
+**Taught as an Instructor in AI Engineering Bootcamp, Organized by [iCodeGuru](https://www.linkedin.com/company/icode-guru/) and [DigiTech Transformation](https://www.linkedin.com/company/digitech-transformation/).**
 
 </div>
 
 ---
 
-## 🌟 My Contribution
+## **About This Bootcamp**
 
-I had the immense honor of serving as a **Volunteer Instructor** for this bootcamp, dedicating my time to teach underprivileged students. My focus was on **Thursdays and Fridays**, which were dedicated to **Labs and Hands-on Practical Experience**. 
+I taught as a **Volunteer Instructor** for **underprivileged students**, giving my time to help make practical AI education more accessible. <br>
+My teaching days were **Thursday and Friday** - the hands-on lab and revision days - so the materials here centre on building, experimenting, debugging, and shipping.
 
-This repository contains the projects, Jupyter notebooks, and practical materials we built together during those lab sessions!
+> **A note on the recordings:** a technical issue meant I could not teach Week 1. The six session recordings below cover my teaching across **Weeks 2-4**.
+
+
+## **At a glance**
+
+| Signal | Details |
+| :-- | :-- |
+| 🏢 **Organised by** | [iCodeGuru](https://www.linkedin.com/company/icode-guru/) × [DigiTech Transformation](https://www.linkedin.com/company/digitech-transformation/) |
+| 🗓️ **Bootcamp format** | Four weeks, Monday-Friday: theory, guided labs, and weekly revision |
+| 🧑‍🏫 **My contribution** | Volunteer Instructor for Thursday/Friday practical labs and revision |
+| 🎥 **My teaching archive** | 6 recorded sessions across Weeks 2, 3, and 4 |
+| 🎯 **Learning path** | LLM apps → RAG → agents → production AI services |
+
+## **The four-week build**
+
+```mermaid
+flowchart LR
+    W1["01 · LLM Foundations<br/>Prompting + Writing Coach"] --> W2["02 · RAG Pipelines<br/>Retrieval + Citations"]
+    W2 --> W3["03 · AI Agents<br/>Plan + Search + Review"]
+    W3 --> W4["04 · Production AI<br/>FastAPI + Deployable RAG"]
+
+    style W1 fill:#2563EB,color:#FFFFFF,stroke:#1D4ED8
+    style W2 fill:#7C3AED,color:#FFFFFF,stroke:#6D28D9
+    style W3 fill:#EA580C,color:#FFFFFF,stroke:#C2410C
+    style W4 fill:#059669,color:#FFFFFF,stroke:#047857
+```
+
+| Week | Theme | What learners built | Core tools |
+| :--: | :-- | :-- | :-- |
+| `01` | **LLM Foundations & Prompting** | AI Writing Coach with personas and writing analysis | Streamlit, Groq, JSON |
+| `02` | **RAG Pipelines & Document Intelligence** | Retrieval systems from scratch and a YouTube-transcript chatbot | LangChain, FAISS, Hugging Face |
+| `03` | **Tool-Using Agents & Multi-Agent Systems** | Autonomous research workflow | LangGraph, Tavily, Groq |
+| `04` | **Production, Deployment & Evaluation** | Multi-mode RAG Assistant API and browser UI | FastAPI, FAISS, LangGraph |
+
+<details>
+<summary><b>🗺️ Explore the official four-week curriculum</b></summary>
+<br />
+
+The complete weekly structure, learning goals, labs, case studies, and deliverables are available in the [Bootcamp Outline PDF](./bootcamp-outline.pdf).
+
+</details>
+
+## **Structure**
+
+```text
+ai-engineering-teaching-bootcamp/
+│
+├── week-1/  
+├── week-2/   
+├── week-3/ 
+├── week-4/  
+│
+├── bootcamp-outline.pdf
+└── certificate.pdf 
+```
+
+## **Session recordings**
+
+<div align="center">
+
+### 🎬 Six practical sessions, recorded for learners who want to build along
+
+[![Open complete playlist](https://img.shields.io/badge/▶%20Open%20full%20playlist-All%206%20lectures-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLNDmRVqsNHHg&si=7YcxYlUsXilWW9Mb)
+
+</div>
+
+| Week | Session | Recording |
+| :--: | :-- | :-- |
+| `02` | Part 1 | [▶ Watch on YouTube](https://youtu.be/-UlsC4xU3Xk?si=djPvy98Wv46chO_f) |
+| `02` | Part 2 | [▶ Watch on YouTube](https://youtu.be/UmHgIO9W4ZU?si=sTxDN9vLcFLTnOTq) |
+| `03` | Part 1 | [▶ Watch on YouTube](https://youtu.be/oVikcQtweuc?si=T7Hx8BZU5Xn8ha3_) |
+| `03` | Part 2 | [▶ Watch on YouTube](https://youtu.be/_v-Fuox-l4w?si=Ha6alJxsKasECjCB) |
+| `04` | Part 1 | [▶ Watch on YouTube](https://youtu.be/0FqDlHTFHn8?si=5otxj84-jkcIYq8k) |
+| `04` | Part 2 | [▶ Watch on YouTube](https://youtu.be/2iBWoJRHlPg?si=FNkp5KjYQHvqRP36) |
+
+
+## **Volunteering with purpose**
+
+> **Talent is everywhere. Opportunity is not.**
+
+I volunteered as an instructor because capable students should not be held back from learning AI by a lack of access. These labs were designed to replace passive consumption with practical confidence: open the notebook, run the code, break it, understand it, and build something of your own.
+
+My thanks to [iCodeGuru](https://www.linkedin.com/company/icode-guru/) and [DigiTech Transformation](https://www.linkedin.com/company/digitech-transformation/) for creating a space where community, mentorship, and technical ambition can meet.
+
+## **Certificate**
+
+<div id="certificate" align="center">
+
+<a href="./certificate.pdf"><img src="./assets/certificate-preview.png" width="900" alt="Volunteer Instructor Certificate of Appreciation for Ahtasham Ul Haq" /></a>
+
+<br /><br />
+
+<a href="./certificate.pdf"><img src="https://img.shields.io/badge/🏅%20Open%20the%20original%20PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open original certificate PDF" /></a>
+
+</div>
+
+> The certificate is displayed above. Select it to open the original, full-resolution PDF.
 
 ---
 
-## 🎨 Bootcamp Highlights
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center">🤝 <b>Organizations</b></td>
-    <td><a href="https://www.linkedin.com/company/icode-guru/">iCodeGuru</a> × <a href="https://www.linkedin.com/company/digitech-transformation">DigiTech Transformation</a></td>
-  </tr>
-  <tr>
-    <td align="center">🧑‍🏫 <b>My Role</b></td>
-    <td>Volunteer Instructor (Thursday/Friday Labs & Projects)</td>
-  </tr>
-  <tr>
-    <td align="center">🎯 <b>Audience</b></td>
-    <td>Underprivileged students eager to learn AI</td>
-  </tr>
-  <tr>
-    <td align="center">💻 <b>Focus Area</b></td>
-    <td>Hands-on Coding, Real-world AI Applications, Agentic AI</td>
-  </tr>
-</table>
+### Keep learning. Keep building. Keep opening doors. ✨
 
----
+Made with care for a community of future AI engineers.
 
-## 📅 4-Week Journey: From Basics to Production
-
-We covered a massive amount of ground in just four weeks, moving from the fundamentals of Large Language Models (LLMs) to deploying production-ready AI services.
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Week 1: LLM Foundations & Prompting
-* **Theme:** Understanding LLMs and building the first app.
-* **Labs Taught:** 
-  * API calls with OpenAI & Claude (Cost prediction, Token Counting).
-  * Building an **AI Writing Coach** using Streamlit.
-* **Key Tech:** `OpenAI SDK`, `Anthropic SDK`, `Streamlit`
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass" width="25" height="25" /> Week 2: RAG Pipelines & Document Intelligence
-* **Theme:** Going beyond naive retrieval with Retrieval-Augmented Generation (RAG).
-* **Labs Taught:**
-  * Building RAG from scratch using FAISS.
-  * Upgrading to LangChain RAG with memory.
-  * Building a **Document Intelligence Chatbot**.
-* **Key Tech:** `LangChain`, `FAISS`, `ChromaDB`, `Pinecone`, `RAGAS`
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="25" height="25" /> Week 3: Tool-Using Agents & Multi-Agent Systems
-* **Theme:** Moving from passive Q&A to active, tool-using systems.
-* **Labs Taught:**
-  * Building a ReAct agent using LangGraph.
-  * Creating an **Autonomous Research Agent**.
-* **Key Tech:** `LangGraph`, `Tavily`, `Python REPL`
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Week 4: Production, Deployment & Evaluation
-* **Theme:** Making AI apps monitored, secure, and deployable.
-* **Labs Taught:**
-  * Building `/chat` and `/index-document` endpoints with FastAPI.
-  * Containerizing with Docker and adding evaluation endpoints.
-* **Key Tech:** `FastAPI`, `Docker`, `GitHub Actions`, `LangSmith`
-
----
-
-## 🛠️ Repository Structure
-
-This repository is organized week by week, containing all the practical lab resources, code snippets, and fully functional projects that I guided the students through.
-
-- 📁 **`week-1/`**: Scripts and notebooks for API interactions and the Streamlit AI Writing Coach.
-- 📁 **`week-2/`**: RAG implementations, vector databases, and LangChain experiments.
-- 📁 **`week-3/`**: LangGraph agent architectures and tool integrations.
-- 📁 **`week-4/`**: FastAPI deployment code, Dockerfiles, and evaluation scripts.
-- 📄 **`bootcamp-outline.pdf`**: The complete theoretical and practical syllabus of the program.
-
----
-
-## 💡 Why Volunteer?
-
-Teaching is the best way to learn, but more importantly, **access to education should be universal**. Volunteering to teach these brilliant, underprivileged students was a deeply rewarding experience. Seeing them build AI writing coaches and autonomous agents from scratch in just a few weeks is a testament to their potential and the power of community-driven education.
+</div>
