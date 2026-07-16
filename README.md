@@ -86,18 +86,18 @@ ai-engineering-teaching-bootcamp/
 
 ### 🎬 Six practical sessions, recorded for learners who want to build along
 
-[![Open complete playlist](https://img.shields.io/badge/▶%20Open%20full%20playlist-All%206%20lectures-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLNDmRVqsNHHg&si=7YcxYlUsXilWW9Mb)
+[![Open complete playlist](https://img.shields.io/badge/▶%20Open%20full%20playlist-All%206%20lectures-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLNDmRVqsNHHg&si=rBTfcEffPmNA_98L)
 
 </div>
 
 | Week | Session | Recording |
 | :--: | :-- | :-- |
-| `02` | Part 1 | [▶ Watch on YouTube](https://youtu.be/-UlsC4xU3Xk?si=djPvy98Wv46chO_f) |
-| `02` | Part 2 | [▶ Watch on YouTube](https://youtu.be/UmHgIO9W4ZU?si=sTxDN9vLcFLTnOTq) |
-| `03` | Part 1 | [▶ Watch on YouTube](https://youtu.be/oVikcQtweuc?si=T7Hx8BZU5Xn8ha3_) |
-| `03` | Part 2 | [▶ Watch on YouTube](https://youtu.be/_v-Fuox-l4w?si=Ha6alJxsKasECjCB) |
-| `04` | Part 1 | [▶ Watch on YouTube](https://youtu.be/0FqDlHTFHn8?si=5otxj84-jkcIYq8k) |
-| `04` | Part 2 | [▶ Watch on YouTube](https://youtu.be/2iBWoJRHlPg?si=FNkp5KjYQHvqRP36) |
+| `02` | Part 1 | [▶ Watch on YouTube](https://youtu.be/x8Zjy60tzag?si=3Hoy0N9qFzfcSFto) |
+| `02` | Part 2 | [▶ Watch on YouTube](https://youtu.be/UGMytXuTRUQ?si=aMaQiyizRqpUxhPi) |
+| `03` | Part 1 | [▶ Watch on YouTube](https://youtu.be/8Dp8nar1utg?si=rhaAUEf2Nd5nFeT2) |
+| `03` | Part 2 | [▶ Watch on YouTube](https://youtu.be/DpC6qN_43nk?si=NnSrtL-hsrv5WUS5) |
+| `04` | Part 1 | [▶ Watch on YouTube](https://youtu.be/e7E5_mhNT_U?si=V0QQumO1t_T8NUt-) |
+| `04` | Part 2 | [▶ Watch on YouTube](https://youtu.be/IHdOuBHNUEo?si=FaCfxvED7-74x-vy) |
 
 
 ## **Volunteering with purpose**
